@@ -1,16 +1,6 @@
-![Cover](./.github/cover.png)
+# Expert-notes 
 
-# NLW Expert (React)
+<img src="src/assets/reactIcon.webp" width="50">
 
 Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
-
-## Executando
-
-Após clonar o repositório, acesse a pasta do projeto e execute os comandos abaixo:
-
-```sh
-npm install
-npm run dev
-```
-
-Acesse http://localhost:5173 para visualizar a aplicação.
+<p>Consiste em um aplicativo web de notas. Contêm as funções de salvar uma nota por texto ou áudio (que depois é transcrito para texto), visualizar e deletar uma nota já salva.</p>
